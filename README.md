@@ -1,1 +1,1 @@
-# Updating the school assignments
+# Purpose: Updating the school assignments
